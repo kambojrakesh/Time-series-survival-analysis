@@ -5,3 +5,5 @@ https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-fo
 https://www.udemy.com/course/applied-time-series-analysis-in-python/?couponCode=467FF8B2F7795AF66404
 
 https://www.youtube.com/watch?v=FsroWpkUuYI&list=PLjwX9KFWtvNnOc4HtsvaDf1XYG3O5bv5s
+
+https://dinhanhthi.com/deeplearning-ai-tensorflow-course-4/#shape-of-input-to-rnn
